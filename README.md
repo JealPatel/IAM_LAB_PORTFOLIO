@@ -34,14 +34,14 @@
 
 ## 📅 Week 1: Active Directory Foundation
 
-| Lab | Topic | Markdown |
-| :--- | :--- | :--- |
-| **Lab 01** | OU Structure & Users | [View](Week-1/Labs/) |
-| **Lab 02** | Groups & RBAC | [View](Week-1/Labs/) |
-| **Lab 03** | Delegation | [View](Week-1/Labs/) |
-| **Lab 04** | Shared Folders | [View](Week-1/Labs/) |
-| **Lab 05** | PowerShell Automation | [View](Week-1/Labs/) |
-| **Lab 06** | Account Lockouts | [View](Week-1/Labs/) |
+| Lab | Topic | Labs (Markdown) | Images (Screenshots) |
+| :--- | :--- | :--- | :--- |
+| **Lab 01** | OU Structure & Users | [View](Week-1/Labs/) | [View](Week-1/Images/) |
+| **Lab 02** | Groups & RBAC | [View](Week-1/Labs/) | [View](Week-1/Images/) |
+| **Lab 03** | Delegation | [View](Week-1/Labs/) | [View](Week-1/Images/) |
+| **Lab 04** | Shared Folders | [View](Week-1/Labs/) | [View](Week-1/Images/) |
+| **Lab 05** | PowerShell Automation | [View](Week-1/Labs/) | [View](Week-1/Images/) |
+| **Lab 06** | Account Lockouts | [View](Week-1/Labs/) | [View](Week-1/Images/) |
 
 ### Key Skills Learned
 - Active Directory Administration
@@ -54,14 +54,14 @@
 
 ## 🌐 Week 2: Networking for IAM
 
-| Lab | Topic | Markdown |
-| :--- | :--- | :--- |
-| **Lab 07** | DNS Fundamentals | [View](Week-2/Labs/) |
-| **Lab 08** | DHCP & IP Addressing | [View](Week-2/Labs/) |
-| **Lab 09** | Network Troubleshooting | [View](Week-2/Labs/) |
-| **Lab 10** | Wireshark & Packet Capture | [View](Week-2/Labs/) |
-| **Lab 11** | DNS Break & Fix | [View](Week-2/Labs/) |
-| **Lab 12** | Subnetting & IP Planning | [View](Week-2/Labs/) |
+| Lab | Topic | Labs (Markdown) | Images (Screenshots) |
+| :--- | :--- | :--- | :--- |
+| **Lab 07** | DNS Fundamentals | [View](Week-2/Labs/) | [View](Week-2/Images/) |
+| **Lab 08** | DHCP & IP Addressing | [View](Week-2/Labs/) | [View](Week-2/Images/) |
+| **Lab 09** | Network Troubleshooting | [View](Week-2/Labs/) | [View](Week-2/Images/) |
+| **Lab 10** | Wireshark & Packet Capture | [View](Week-2/Labs/) | [View](Week-2/Images/) |
+| **Lab 11** | DNS Break & Fix | [View](Week-2/Labs/) | [View](Week-2/Images/) |
+| **Lab 12** | Subnetting & IP Planning | [View](Week-2/Labs/) | [View](Week-2/Images/) |
 
 ### Key Skills Learned
 - DNS Resolution
@@ -74,14 +74,14 @@
 
 ## 🐧 Week 3: Linux Fundamentals
 
-| Lab | Topic | Markdown |
-| :--- | :--- | :--- |
-| **Lab 13** | Installing Ubuntu Server | [View](Week-3/Labs/) |
-| **Lab 14** | Linux File System & Navigation | [View](Week-3/Labs/) |
-| **Lab 15** | Linux Logs & Security Monitoring | [View](Week-3/Labs/) |
-| **Lab 16** | Linux Services & Process Management | [View](Week-3/Labs/) |
-| **Lab 17** | Linux Networking Commands | [View](Week-3/Labs/) |
-| **Lab 18** | Bash Scripting for Automation | [View](Week-3/Labs/) |
+| Lab | Topic | Labs (Markdown) | Images (Screenshots) |
+| :--- | :--- | :--- | :--- |
+| **Lab 13** | Installing Ubuntu Server | [View](Week-3/Labs/) | [View](Week-3/Images/) |
+| **Lab 14** | Linux File System & Navigation | [View](Week-3/Labs/) | [View](Week-3/Images/) |
+| **Lab 15** | Linux Logs & Security Monitoring | [View](Week-3/Labs/) | [View](Week-3/Images/) |
+| **Lab 16** | Linux Services & Process Management | [View](Week-3/Labs/) | [View](Week-3/Images/) |
+| **Lab 17** | Linux Networking Commands | [View](Week-3/Labs/) | [View](Week-3/Images/) |
+| **Lab 18** | Bash Scripting for Automation | [View](Week-3/Labs/) | [View](Week-3/Images/) |
 
 ### Key Skills Learned
 - Ubuntu Server Installation
